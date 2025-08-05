@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #e76f51;
+    background-color: #ec58d6;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -51,8 +51,8 @@ section {
 }
 
 section h2 {
-    color: #e76f51;
-    border-bottom: 2px solid #e76f51;
+    color: #f803d7;
+    border-bottom: 2px solid lab(63.1% 83.46 -53.72);
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -65,7 +65,7 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #f4a261;
+    background-color: #f57adc;
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
